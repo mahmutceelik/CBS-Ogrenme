@@ -1,0 +1,10 @@
+geopandas
+shapely
+pyproj
+rasterio
+folium
+matplotlib
+mapclassify
+contextily
+jupyterlab
+ipykernel

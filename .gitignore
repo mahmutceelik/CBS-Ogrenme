@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# QGIS geçici dosyaları
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+# Çıktılar
+benim_haritam.html

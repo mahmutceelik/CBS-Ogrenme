@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "~/cbs-ortam/bin/python",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "files.exclude": { "**/.DS_Store": true }
+}
